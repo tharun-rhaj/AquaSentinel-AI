@@ -9,7 +9,7 @@ from datetime import datetime
 # ---------- CONFIG ----------
 st.set_page_config(page_title="AI Marintime Surveillance", layout="wide")
 
-IP_CAMERA_URL = "http://10.17.158.57:8080/video"
+IP_CAMERA_URL = "enter your camera url"
 EVIDENCE_DIR = "evidence"
 os.makedirs(EVIDENCE_DIR, exist_ok=True)
 
