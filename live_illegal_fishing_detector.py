@@ -13,7 +13,7 @@ model = YOLO("yolov8n.pt")
 # MOBILE CAMERA STREAM
 # Replace with your IP Webcam URL
 # ----------------------------
-STREAM_URL = "http://10.17.158.57:8080/video"
+STREAM_URL = "enter your camera url"
 
 cap = cv2.VideoCapture(STREAM_URL)
 
