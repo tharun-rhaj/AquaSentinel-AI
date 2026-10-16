@@ -1,6 +1,6 @@
 import cv2
 
-cap = cv2.VideoCapture("http://10.17.158.57:8080/video")
+cap = cv2.VideoCapture("enter your camera url")
 
 while True:
     ret, frame = cap.read()
