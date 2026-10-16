@@ -3,7 +3,7 @@
 A computer-vision prototype for maritime surveillance, built around a drone-camera concept. It uses YOLOv8 and OpenCV to detect boats and people from a live camera feed, raises an alert when a boat enters a restricted zone, and saves evidence images. A Streamlit dashboard shows the live feed and an evidence gallery.
 
 ![Evidence sample 1](evidence/samples/illegal_092411.jpg)
-![Evidence sample 2](evidence/samples/YOUR_IMAGE_2.jpg)
+![Evidence sample 2](evidence/samples/illegal_102746.jpg)
 
 ## Features
 
